@@ -78,8 +78,8 @@ LEECH_DUMP_CHAT = ""
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = ""
-BASE_URL_PORT = 0
+BASE_URL = "http://localhost"
+BASE_URL_PORT = 6789
 WEB_PINCODE = False
 # Queueing system
 QUEUE_ALL = 0
